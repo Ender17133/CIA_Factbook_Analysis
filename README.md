@@ -1,3 +1,4 @@
+[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-blue.svg?logo=jupyter)](https://github.com/Ender17133/CIA_Factbook_Analysis/blob/main/Basics.ipynb)
 # Analyzing CIA Factbook Data
 In this project, I will be working with [CIA World Factbook](https://www.cia.gov/the-world-factbook/) data, which includes statistics about all countries on Earth.
 
